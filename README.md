@@ -1,18 +1,17 @@
-
 <p align="center">
-  <img src="https://i.postimg.co/D0m4v9mG/gatinha-persa-olhos-verdes.png" width="180" alt="Gatinha Branca de Olhos Verdes">
+  <img src="https://i.ibb.co/6w46ZgW/gatinha-branca-olhos-verdes.png" width="180" alt="Gatinha Branca de Olhos Verdes">
   <br>
   <sub><span style="color: #FF1493;">miau... ✨</span></sub>
 </p>
 
-# <span style="color: #FF69B4; font-family: 'Comic Sans MS', sans-serif;">Hi! I'm Gaby Silva, welcome to my world ✈️🌍</span>
+# <span style="color: #FF69B4;">Hi! I'm Gabrielly Silva, welcome to my world ✈️🌍</span>
 
 ---
 
-### 👋 <span style="color: #FF00FF;">Olá, eu sou a Gaby Bezerra!</span> 💖
+### 👋 <span style="color: #FF00FF;">Olá, eu sou a Gabrielly Silva!</span> 💖
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-Trabalhando-success?style=for-the-badge&logoColor=white&color=FF1493" alt="Status">
+  <img src="https://img.shields.io/badge/STATUS-TRABALHANDO-success?style=for-the-badge&logoColor=white&color=FF1493" alt="Status">
 </p>
 
 <span style="color: #FF1493;">Sou profissional com sólida bagagem na área corporativa e de relacionamento estratégico, atualmente graduanda em **Gestão de Recursos Humanos**. Sou apaixonada por processos eficientes, inovação tecnológica, análise de dados e atendimento de excelência.</span> 💅
@@ -63,5 +62,6 @@ Seja para conversar sobre tecnologia, aviação ou recursos humanos, sinta-se à
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
+
 
 
