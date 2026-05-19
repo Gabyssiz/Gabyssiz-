@@ -1,5 +1,13 @@
 # Hi! I'm Gaby Silva, welcome to my world ✈️🌎
 
+<p align="center">
+  <img src="https://i.ibb.co/6w46ZgW/gatinha-branca-olhos-verdes.png" width="180" alt="Gatinha Branca de Olhos Verdes e Laços Rosa">
+  <br>
+  <sub>meow... ✨</sub>
+</p>
+
+# Olá, eu sou a Gaby Bezerra! 👋
+
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Trabalhando-success?style=for-the-badge&logoColor=white&color=FF69B4" alt="Status">
 </p>
@@ -53,4 +61,6 @@ Seja para conversar sobre tecnologia, aviação ou recursos humanos, sinta-se à
   </a>
 </p>
 
+
+ 
 
