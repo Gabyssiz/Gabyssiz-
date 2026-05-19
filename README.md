@@ -1,12 +1,14 @@
-# Hi! I'm Gaby Silva, welcome to my world ✈️🌎
-
 <p align="center">
-  <img src="https://i.ibb.co/6w46ZgW/gatinha-branca-olhos-verdes.png" width="180" alt="Gatinha Branca de Olhos Verdes e Laços Rosa">
+  <img src="https://raw.githubusercontent.com/gabyssiz/gabyssiz/main/gatinha.png" width="180" alt="Gatinha Branca de Olhos Verdes">
   <br>
   <sub>meow... ✨</sub>
 </p>
 
-# Olá, eu sou a Gaby Bezerra! 👋
+# Hi! I'm Gaby Silva, welcome to my world ✈️🌍
+
+---
+
+### 👋 Olá, eu sou a Gaby Bezerra!
 
 <p align="left">
   <img src="https://img.shields.io/badge/Status-Trabalhando-success?style=for-the-badge&logoColor=white&color=FF69B4" alt="Status">
