@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gabyssiz/gabyssiz/main/gatinha.png" width="180" alt="Gatinha Branca de Olhos Verdes">
+  <img src="https://i.postimg.co/D0m4v9mG/gatinha-persa-olhos-verdes.png" width="180" alt="Gatinha Branca de Olhos Verdes">
   <br>
   <sub>meow... ✨</sub>
 </p>
@@ -63,6 +63,4 @@ Seja para conversar sobre tecnologia, aviação ou recursos humanos, sinta-se à
   </a>
 </p>
 
-
- 
 
