@@ -1,29 +1,56 @@
 # Hi! I'm Gaby Silva, welcome to my world ✈️🌎
 
-Seja bem-vindo(a) ao meu perfil! Sou profissional em consolidação na área corporativa e aeroportuária, atualmente graduanda em Gestão de Recursos Humanos e apaixonada por processos, inovação e atendimento de excelência.
+<p align="left">
+  <img src="https://img.shields.io/badge/Status-Trabalhando-success?style=for-the-badge&logoColor=white&color=FF69B4" alt="Status">
+</p>
 
-### 💼 Sobre Minha Carreira
-* **Setor Bancário:** Sólida experiência em Monitoria de Qualidade e Atendimento Estratégico no segmento de Alta Renda e Gestão de Crises.
-* **Foco em Resultados:** Histórico de otimização de processos e elevação de 30% no NPS (Net Promoter Score) em apenas um mês de atuação crítica.
+Sou profissional com sólida bagagem na área corporativa e de relacionamento estratégico, atualmente graduanda em **Gestão de Recursos Humanos**. Sou apaixonada por processos eficientes, inovação tecnológica, análise de dados e atendimento de excelência.
 
-### 🛠️ Ferramentas & Tecnologias
-Aqui estão as principais ferramentas que utilizo no meu dia a dia profissional para análise de dados, automação e produtividade:
+---
 
-| Ferramenta | Onde aplico |
-| :--- | :--- |
-| 📊 **Microsoft Excel** | Consolidação de relatórios, envio, triagem e análise crítica de dados corporativos. |
-| 📋 **Pacote Office (Word/PPT)** | Criação de relatórios executivos, apresentações estratégicas e documentação de processos. |
-| 🧠 **IA Generativa (ChatGPT/Copilot)** | Engenharia de prompts para otimização de fluxos de trabalho, redação corporativa e análise ágil. |
-| 🗄️ **SQL** | Desenvolvimento e capacitação técnica em banco de dados para consultas e relatórios. |
-| 💬 **Canais de Relacionamento VIP** | Plataformas de atendimento omnichannel focadas em públicos de Alta Renda. |
+### 💼 Um pouco sobre a minha trajetória
+* **Excelência em Atendimento:** Forte atuação no setor bancário com monitoria de qualidade, gestão de crises e suporte ao segmento de Alta Renda.
+* **Foco em Resultados:** Histórico comprovado de otimização de processos internos e elevação de mais de 30% nos indicadores de satisfação (NPS).
+* **Transição e Futuro:** Unindo a paixão pelo setor aeroportuário à capacitação técnica contínua em análise de dados e ferramentas tecnológicas.
+
+---
+
+### 🛠️ Ferramentas & Competências Técnicas
+Aqui estão as principais tecnologias e ferramentas que domino e aplico nos meus projetos e rotinas diárias:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Word">
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/ChatGPT_&_IA-412991?style=for-the-badge&logo=openai&logoColor=white" alt="IA">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+</p>
+
+* 📊 **Análise de Dados:** Consolidação de relatórios, triagem de dados e criação de planilhas inteligentes no Excel.
+* 🗄️ **Banco de Dados:** Desenvolvimento contínuo de consultas estruturadas usando SQL.
+* 🤖 **Inteligência Artificial:** Engenharia de prompts aplicados à produtividade e otimização de fluxos corporativos.
+
+---
 
 ### 📜 Formação & Certificações
-* 🎓 Graduação em Gestão de Recursos Humanos (Em andamento)
-* ✈️ Formação Técnica em Aviação: Comissária de Voo e Agente de Aeroporto (CTP Alagoas)
-* 🤖 Especialização em Tecnologia: A Era da IA (Machine Learning, LLMs e IA Generativa)
-* 📈 Estratégia de Imagem & Posicionamento de Conteúdo para Instagram
+* 🎓 **Graduação em Gestão de Recursos Humanos** (Em andamento)
+* ✈️ **Formação Técnica em Aviação:** Comissária de Voo e Agente de Aeroporto — *CTP Alagoas*
+* 🤖 **Especialização:** Tecnologia, IA Generativa e Modelos de Linguagem
+* 📈 **Estratégia de Posicionamento:** Imagem e Marketing de Conteúdo para Redes Sociais
+
+---
 
 ### 📬 Vamos nos conectar?
-* 👔 [Meu LinkedIn](https://www.linkedin.com/in/gabrielly-silva-b9030b22a)
-* ✉️ E-mail: gabriellyssiz2002@gmail.com
+
+Seja para conversar sobre tecnologia, aviação ou recursos humanos, sinta-se à vontade para me encontrar nas redes:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/gabrielly-silva-b9030b22a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:gabriellyssiz2002@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
 
