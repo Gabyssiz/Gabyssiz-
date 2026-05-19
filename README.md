@@ -1,4 +1,4 @@
-# Olá! Eu sou a Gaby Silva 👋
+# Hi! I'm Gaby Silva, welcome to my world ✈️🌎
 
 Seja bem-vindo(a) ao meu perfil! Sou profissional em consolidação na área corporativa e aeroportuária, atualmente graduanda em Gestão de Recursos Humanos e apaixonada por processos, inovação e atendimento de excelência.
 
